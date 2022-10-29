@@ -7,8 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "install": "sh ./scripts/start.sh",
-    "restart": "sh ./scripts/restart.sh",
+    "init": "sh ./scripts/init.sh",
+    "reload": "sh ./scripts/reload.sh",
     "restart": "sh ./scripts/restart.sh"
   },
   "dependencies": {
