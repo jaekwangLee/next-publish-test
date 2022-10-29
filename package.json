@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "install": "sh ./scripts/start.sh",
+    "restart": "sh ./scripts/restart.sh",
+    "restart": "sh ./scripts/restart.sh"
   },
   "dependencies": {
     "next": "13.0.0",
